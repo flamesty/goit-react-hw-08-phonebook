@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10df91d9-0e80-4e1d-af5d-e8f363b1411b" name="Changes" comment="hw-react-fix-00">
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AppBar/AppBar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AppBar/AppBar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AuthNav/AuthNav.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AuthNav/AuthNav.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ContactForm/ContactForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactForm/ContactForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ContactList/ContactList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactList/ContactList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Container/Container.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Container/Container.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Filter/Filter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Filter/Filter.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LoaderComponent/LoaderComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LoaderComponent/LoaderComponent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navigation/Navigation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/Navigation.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PrivateRoute.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PrivateRoute.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PublicRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PublicRoute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UserMenu/UserMenu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UserMenu/UserMenu.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/motionVar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/motionVar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ContactsView/ContactsView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/ContactsView/ContactsView.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/HomeView/HomeView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/HomeView/HomeView.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/LoginView/LoginView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/LoginView/LoginView.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/NotFoundView/NotFoundView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/NotFoundView/NotFoundView.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/RegisterView/RegisterView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/RegisterView/RegisterView.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/ContactForm/ContactForm.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/ContactList/ContactList.jsx" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="20Ogh83sMXXTMa8umo4EMiFStq4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10df91d9-0e80-4e1d-af5d-e8f363b1411b" name="Changes" comment="" />
+      <created>1635921163331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635921163331</updated>
+      <workItem from="1635921165589" duration="1138000" />
+      <workItem from="1635922761586" duration="1986000" />
+      <workItem from="1635924908973" duration="54000" />
+      <workItem from="1635924978700" duration="7171000" />
+      <workItem from="1636005885665" duration="62000" />
+      <workItem from="1636005961925" duration="4691000" />
+      <workItem from="1636014593152" duration="1209000" />
+      <workItem from="1636015820053" duration="5661000" />
+      <workItem from="1636094912793" duration="138000" />
+    </task>
+    <task id="LOCAL-00001" summary="hw-react-fix-00">
+      <created>1636015580101</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636015580101</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="hw-react-fix-00" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw-react-fix-00" />
+  </component>
+</project>
