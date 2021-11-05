@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10df91d9-0e80-4e1d-af5d-e8f363b1411b" name="Changes" comment="hw-react-fix-00">
-      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AppBar/AppBar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AppBar/AppBar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AuthNav/AuthNav.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AuthNav/AuthNav.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ContactForm/ContactForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactForm/ContactForm.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ContactList/ContactList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactList/ContactList.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Container/Container.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Container/Container.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Filter/Filter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Filter/Filter.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/LoaderComponent/LoaderComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LoaderComponent/LoaderComponent.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navigation/Navigation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/Navigation.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PrivateRoute.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PrivateRoute.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PublicRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PublicRoute.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UserMenu/UserMenu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UserMenu/UserMenu.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/motionVar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/motionVar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/ContactsView/ContactsView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/ContactsView/ContactsView.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/HomeView/HomeView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/HomeView/HomeView.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/LoginView/LoginView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/LoginView/LoginView.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/NotFoundView/NotFoundView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/NotFoundView/NotFoundView.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/RegisterView/RegisterView.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/RegisterView/RegisterView.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +75,9 @@
       <workItem from="1636005961925" duration="4691000" />
       <workItem from="1636014593152" duration="1209000" />
       <workItem from="1636015820053" duration="5661000" />
-      <workItem from="1636094912793" duration="138000" />
+      <workItem from="1636094912793" duration="1080000" />
+      <workItem from="1636095999524" duration="788000" />
+      <workItem from="1636098269258" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary="hw-react-fix-00">
       <created>1636015580101</created>
